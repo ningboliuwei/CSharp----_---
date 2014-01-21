@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyClockForWindowsFrom">
+</Property><Property Name="Solution File" Value="C:\jxl\教案\C#面向对象程序设计\0 概述\Example\MyClockForWindowsFrom\MyClockForWindowsFrom.sln">
+</Property><Property Name="Date" Value="2010年3月10日">
+</Property><Property Name="Time" Value="14:13">
+</Property></Properties><Event ErrorLevel="0" Project="MyClockForWindowsFrom" Source="MyClockForWindowsFrom\MyClockForWindowsFrom.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyClockForWindowsFrom" Source="MyClockForWindowsFrom\MyClockForWindowsFrom.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyClockForWindowsFrom.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MyClockForWindowsFrom.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyClockForWindowsFrom" Source="MyClockForWindowsFrom\MyClockForWindowsFrom.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

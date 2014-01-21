@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UseListForCS3">
+</Property><Property Name="Solution File" Value="D:\jxl\教案\铁科院培训\6 进一步学习面向对象基础技术\SourceCode\泛型编程\UseListForCS3\UseListForCS3.sln">
+</Property><Property Name="Date" Value="2008年8月6日">
+</Property><Property Name="Time" Value="17:27">
+</Property></Properties><Event ErrorLevel="0" Project="UseListForCS3" Source="UseListForCS3\UseListForCS3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UseListForCS3" Source="UseListForCS3\UseListForCS3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UseListForCS3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UseListForCS3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UseListForCS3" Source="UseListForCS3\UseListForCS3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

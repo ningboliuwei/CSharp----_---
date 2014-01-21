@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UseCustomEvent">
+</Property><Property Name="Solution File" Value="D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseCustomEvent\UseCustomEvent.sln">
+</Property><Property Name="Date" Value="2011年3月29日">
+</Property><Property Name="Time" Value="14:08">
+</Property></Properties><Event ErrorLevel="0" Project="UseCustomEvent" Source="UseCustomEvent\UseCustomEvent.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UseCustomEvent" Source="UseCustomEvent\UseCustomEvent.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="UseCustomEvent.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UseCustomEvent.sln" Description="Converted">
+</Event></UpgradeLog>

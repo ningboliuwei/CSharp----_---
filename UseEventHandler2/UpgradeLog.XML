@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UseEventHandler2">
+</Property><Property Name="Solution File" Value="D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\事件\UseEventHandler2\UseEventHandler2.sln">
+</Property><Property Name="Date" Value="2011年3月29日">
+</Property><Property Name="Time" Value="13:40">
+</Property></Properties><Event ErrorLevel="0" Project="UseEventHandler2" Source="UseEventHandler2\UseEventHandler2.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UseEventHandler2" Source="UseEventHandler2\UseEventHandler2.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="UseEventHandler2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UseEventHandler2.sln" Description="Converted">
+</Event></UpgradeLog>

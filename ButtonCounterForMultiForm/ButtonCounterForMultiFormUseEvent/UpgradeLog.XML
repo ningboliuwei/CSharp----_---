@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ButtonCounterForMultiFormUseEvent">
+</Property><Property Name="Solution File" Value="C:\jxl\MyBook\入室登堂\第1篇 类和对象的精彩演出\第11章 对象间的相互拜访\SourceCode\11.3\ButtonCounterForMultiFormUseEvent\ButtonCounterForMultiFormUseEvent.sln">
+</Property><Property Name="Date" Value="2010年5月12日">
+</Property><Property Name="Time" Value="16:38">
+</Property></Properties><Event ErrorLevel="0" Project="ButtonCounterForMultiFormUseEvent" Source="ButtonCounterForMultiFormUseEvent\ButtonCounterForMultiFormUseEvent.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ButtonCounterForMultiFormUseEvent" Source="ButtonCounterForMultiFormUseEvent\ButtonCounterForMultiFormUseEvent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ButtonCounterForMultiFormUseEvent.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ButtonCounterForMultiFormUseEvent.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ButtonCounterForMultiFormUseEvent" Source="ButtonCounterForMultiFormUseEvent\ButtonCounterForMultiFormUseEvent.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
